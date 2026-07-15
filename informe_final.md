@@ -123,8 +123,8 @@ generado automáticamente al correr los tres notebooks de entrenamiento]_
 
 | Modelo | Accuracy | Precision (macro) | Recall (macro) | F1 (macro) | F1 (weighted) | Tiempo entren. (min) | Parámetros entrenables (M) |
 |---|---|---|---|---|---|---|---|
-| ResNet-50 (CNN) | | | | | | | |
-| ViT-B/16 | | | | | | | |
+| ResNet-50 (CNN) | 0.8844 | 0.8284 | 0.8283 | 0.8176 | 0.8814 | 87.4 | 23.5654 |
+| ViT-B/16 | 0.8253 | 0.7713 | 0.7853 | 0.7683 | 0.8226 | 88.4 | 85.8202 |
 | Siamese-Contrastive + FC | | | | | | | |
 | Siamese-Contrastive + XGBoost | | | | | | | |
 | Siamese-Triplet + FC | 0.6704 | 0.6143 | 0.6688 | 0.6135 | 0.6560 | 91.67 | 0.0036 |
