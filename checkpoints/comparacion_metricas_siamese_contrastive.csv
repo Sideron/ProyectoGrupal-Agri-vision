@@ -1,0 +1,3 @@
+model,accuracy,precision_macro,recall_macro,f1_macro,f1_weighted,train_time_min,trainable_params_M
+Siamese-Contrastive + FC,0.7515,0.6916,0.7348,0.6937,0.7391,88.4076,0.0036
+Siamese-Contrastive + XGBoost,0.7577,0.676,0.6822,0.6754,0.7564,0.1976,
